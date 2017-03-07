@@ -1,0 +1,3 @@
+3/7 - Create models used for the prototype demo (4hrs)
+3/7 - Create prefabs of models with their required properties (4hrs)
+3/9 - Upload and integrate assets with the rest of the team (4 hrs)
