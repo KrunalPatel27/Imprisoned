@@ -1,0 +1,4 @@
+- Create a physical prototype on paper (3 hours) - Tuesday
+- Create a assets for level in Unity (3 hours) - Tuesday
+- Create models for level in Unity (3 hours) - Wednesday
+- Create basic layout of level in Unity (5 hours) - Thursday
