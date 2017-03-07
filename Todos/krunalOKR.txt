@@ -1,2 +1,2 @@
-3/7 - Get Player movement and camera working for different scenes
-3/9 (1pm) - Scripts for player to collect/ pickup utilities and avoid camera obstacle and guards
+3/7 (4 hrs)- Get Player movement and camera working for different scenes 
+3/9 (3 hrs) - Scripts for player to collect/ pickup utilities and avoid camera obstacle and guards
