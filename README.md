@@ -12,4 +12,5 @@
 - Add mechanim animation for guard and for main character (4h)
 - Add cutscenes as part 1. (5h)
 - New assets and textures for the prison. (5h)
+- New Level Design
 
