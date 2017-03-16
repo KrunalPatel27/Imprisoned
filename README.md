@@ -7,4 +7,9 @@
 ### Todos
 - Implement opening cutscenes for each level to give information to players.
 - Change red camera light to white. It will turn red based on player detection and other camera lights should stop moving along with their lights turning red. If a camera is on the player, it should track/follow their movements.
-- Implement 3 different AI systems.
+- Implement 3 different AI systems. (10h)
+- Adding Smoother turning to characters (2h)
+- Add mechanim animation for guard and for main character (4h)
+- Add cutscenes as part 1. (5h)
+- New assets and textures for the prison. (5h)
+
