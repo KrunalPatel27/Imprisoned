@@ -17,4 +17,4 @@
 
 ### Completed
 - Implement 3 different AI systems. (10h)
-- Change red camera light to white. It will turn red based on player detection and other camera lights should stop moving along with their lights turning red.
+- Change red camera light to white. It will turn red based on player detection and other camera lights should stop moving along with their lights turning red. (5h) - messy code
