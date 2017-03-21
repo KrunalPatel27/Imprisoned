@@ -6,6 +6,7 @@
 
 ### Todos
 - Implement opening cutscenes for each level to give information to players.
+- Implement writing into opening cutscene
 - Adding Smoother turning to characters (2h)
 - Add mechanim animation for guard and for main character (4h)
 - Add cutscenes as part 1. (5h)
@@ -14,6 +15,8 @@
 - Add example of physics: particles
 - Add fire extinguisher that blows up (physics)
 - Can add flaming head effect for guard (physics)
+- Need sound effects for picking up key
+- NEED to document sources and other things in design document
 
 ### Completed
 - Implement 3 different AI systems. (10h)
