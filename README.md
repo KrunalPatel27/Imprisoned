@@ -7,7 +7,7 @@
 ### Todos
 - Implement opening cutscenes for each level to give information to players.
 - Implement writing into opening cutscene
-- Adding Smoother turning to characters (2h)
+- Adding Smoother turning to characters - example guards (2h)
 - Add mechanim animation for guard and for main character (4h)
 - Add cutscenes as part 1. (5h)
 - New assets and textures for the prison. (5h)
