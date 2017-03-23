@@ -17,6 +17,7 @@
 - Can add flaming head effect for guard (physics)
 - Need sound effects for picking up key
 - NEED to document sources and other things in design document
+- Prevent camera from going through walls
 
 ### Completed
 - Implement 3 different AI systems. (10h)
