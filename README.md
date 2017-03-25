@@ -18,6 +18,7 @@
 - Need sound effects for picking up key
 - NEED to document sources and other things in design document
 - Prevent camera from going through walls
+- Add interactable objects to store stuff in. ex: furniture, vents, shelves
 
 ### Completed
 - Implement 3 different AI systems. (10h)
