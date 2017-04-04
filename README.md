@@ -8,10 +8,8 @@
 - Implement opening cutscenes for each level to give information to players.
 - Implement writing into opening cutscene
 - Adding Smoother turning to characters - example guards (2h)
-- Add mechanim animation for guard and for main character (4h)
 - Add cutscenes as part 1. (5h)
 - New assets and textures for the prison. (5h)
-- New Level Design
 - Add example of physics: particles
 - Add fire extinguisher that blows up (physics)
 - Can add flaming head effect for guard (physics)
@@ -21,6 +19,8 @@
 - Add interactable objects to store stuff in. ex: furniture, vents, shelves
 
 ### Completed
+- New Level Design
+- Add mechanim animation for guard and for main character (4h)
 - Implement 3 different AI systems. (10h)
 - Change red camera light to white. It will turn red based on player detection and other camera lights should stop moving along with their lights turning red. (5h) - messy code
 - Add opening music
