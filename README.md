@@ -17,6 +17,7 @@
 - Prevent camera from going through walls
 - Add interactable objects to store stuff in. ex: furniture, vents, shelves
 - Inventory System
+- Stealth bar
 
 ### Completed
 - New assets and textures for the prison. (5h)
