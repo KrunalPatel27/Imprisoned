@@ -16,6 +16,7 @@
 - NEED to document sources and other things in design document
 - Prevent camera from going through walls
 - Add interactable objects to store stuff in. ex: furniture, vents, shelves
+- Inventory System
 
 ### Completed
 - New assets and textures for the prison. (5h)
