@@ -9,15 +9,12 @@
 - Implement writing into opening cutscene
 - Adding Smoother turning to characters - example guards (2h)
 - Add cutscenes as part 1. (5h)
-- Add example of physics: particles
-- Add fire extinguisher that blows up (physics)
 - Can add flaming head effect for guard (physics)
 - Need sound effects for picking up key
 - NEED to document sources and other things in design document
 - Prevent camera from going through walls
 - Add interactable objects to store stuff in. ex: furniture, vents, shelves
 - Inventory System
-- Stealth bar
 
 ### Completed
 - New assets and textures for the prison. (5h)
@@ -28,3 +25,7 @@
 - Add opening music
 - Stop music and trigger another audio source upon detection
 - Add 3 Shaders: Fire, Glow, Window
+- Stealth bar
+- Add example of physics: particles
+- Add fire extinguisher that blows up (physics)
+
