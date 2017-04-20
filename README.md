@@ -27,3 +27,4 @@
 - Change red camera light to white. It will turn red based on player detection and other camera lights should stop moving along with their lights turning red. (5h) - messy code
 - Add opening music
 - Stop music and trigger another audio source upon detection
+- Add 3 Shaders: Fire, Glow, Window
