@@ -6,10 +6,10 @@
 
 ### Todos
 
-- Adding Smoother turning to characters - example guards (2h)
+- Adding Smoother turning to characters - example guard
 - Prevent camera from going through walls
 - Add interactable objects to store stuff in. ex: furniture, vents, shelves
-- Inventory System
+- Inventory/Crafting System ?
 
 ### Completed
 - Allow player to view guards upon trigger
